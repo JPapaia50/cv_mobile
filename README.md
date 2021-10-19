@@ -1,2 +1,2 @@
-# cv_mobile
-Projetos CV mobile
+# ManutencaoMobile
+Projeto Redes Sociais
